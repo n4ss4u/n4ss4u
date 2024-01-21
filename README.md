@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=false&vCenter=true&width=600&height=100&lines=Hola+soy+n4ss4u,+regalame+un+follow+&hearts;">
-
 <h2>Lenguajes y Tecnologías:</h2>
 <img width="1000px"  src="https://skillicons.dev/icons?i=py,django,flask,java,js,nodejs,html,css,cs,php,linux,git&perline=12"  />
 
