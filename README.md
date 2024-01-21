@@ -46,7 +46,7 @@
 <h2>Lenguajes y Tecnologías:</h2>
 <img width="1000px"  src="https://skillicons.dev/icons?i=py,django,flask,java,js,nodejs,html,css,cs,php,linux,git&perline=12"  />
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=n4ss4u&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/><li><ul>hola<ul></li>
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=n4ss4u&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 <p align="center"> 
   <div align="center"><h2>Cantidad de visitantes actuales</h2></div>
