@@ -32,7 +32,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?alt="Top Repo" />
+          <img align="center"/>
         </a>
       </p>
     </td>
