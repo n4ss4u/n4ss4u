@@ -1,3 +1,4 @@
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=false&vCenter=true&width=600&height=100&lines=Hola+soy+n4ss4u,+regalame+un+follow+&hearts;">
@@ -48,11 +49,8 @@
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=n4ss4u&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 
-
-<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-
 <p align="center"> 
-  <div align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h2>Cantidad de visitantes actuales</h2></div>
+  <div align="center"><h2>Cantidad de visitantes actuales</h2></div>
   <div align="center">
     <img src="https://profile-counter.glitch.me/n4ss4u/count.svg"/>
   </div> 
