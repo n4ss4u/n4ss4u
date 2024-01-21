@@ -46,14 +46,12 @@
 <img width="1000px"  src="https://skillicons.dev/icons?i=py,django,flask,java,js,nodejs,html,css,cs,php,linux,git&perline=12"  />
 
 
-
-
-
-
-
-
-
-
+<p align="center"> 
+  <div align="center">Cantidad de Visitantes</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/n4ss4u/count.svg"/>
+  </div> 
+</p>
 
 
 
