@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=false&vCenter=true&width=600&height=100&lines=Hola+soy+n4ss4u,+regalame+un+follow+&hearts;">
 
 Tecnologías:<br>
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,django,git,vscode,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,django,flask,java,js,nodejs,html,css,cs,php,linux,git&perline=10"  />
 
 
 
