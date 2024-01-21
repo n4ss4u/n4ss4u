@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=false&vCenter=true&width=600&height=100&lines=Hola+soy+n4ss4u,+regalame+un+follow+&hearts;">
 
-Tecnologías:
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+Tecnologías:<br>
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,django,git,vscode,linux&perline=10"  />
 
 
 
