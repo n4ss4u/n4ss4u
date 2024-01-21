@@ -26,7 +26,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/n4ss4u/RubberDuckyV">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=n4ss4u&repo=RubberDuckyV&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=n4ss4u&repo=RubberDuckyV&theme=nightowl&show_owner=true" alt="RubberDuckyV" />
         </a>
       </p>
     </td>
